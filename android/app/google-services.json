@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011616670640",
+    "project_id": "ekantin22",
+    "storage_bucket": "ekantin22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011616670640:android:7351d3a4ea9f8a7454ac75",
+        "android_client_info": {
+          "package_name": "com.example.e_kantin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgMusBvFrDEJlrH6ZQgfSF5KBI-L98zDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
